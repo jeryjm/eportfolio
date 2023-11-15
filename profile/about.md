@@ -1,4 +1,7 @@
 ---
+layout: page
+title: About Me
+nav-menu: true
 show_tile: false
 ---
 <!-- Main -->
