@@ -7,5 +7,4 @@ image: null
 author: null
 show_tile: false
 ---
-
-I AM DEEPLY PASSIONATE ABOUT CYBERSECURITY AND ASPIRE TO BE KNOWN FOR MY PROBLEM-SOLVING EXPERTISE, LEADERSHIP SKILLS, AND STRONG FOCUS ON ETHICAL PRACTICES, AIMING TO MAKE A TANGIBLE DIFFERENCE IN SAFEGUARDING SENSITIVE INFORMATION AND FOSTERING TRUST WITHIN ORGANIZATIONS.
+I am deeply passionate about cybersecurity and aspire to be known for my problem-solving expertise, leadership skills, and strong focus on ethical practices, aiming to make a tangible difference in safeguarding sensitive information and fostering trust within organizations.
