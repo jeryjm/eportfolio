@@ -1,7 +1,4 @@
 ---
-#layout: page
-title: About Me
-nav-menu: true
 ---
 <!-- Main -->
 <div id="main" class="alt">
