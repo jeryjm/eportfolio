@@ -15,13 +15,13 @@ nav-menu: true
 									</header>
 									<p>I will learn:</p>
 									<ul>
-										<li>Dolor etiam magna etiam.</li>
-										<li>Sagittis lorem eleifend.</li>
-										<li>Felis dolore viverra.</li>
+										<li>Identify and analyse critically security risks, threats and vulnerabilities in information systems, accounting for the current threat landscape.</li>
+										<li>Gather and synthesise information from multiple sources (including internet security alerts & warning sites) to aid in the systematic analysis of risks & security issues manage and audit risk and security issues.</li>
+										<li>Critically determine appropriate methodologies, tools and techniques to mitigate and/or solve security risks and their business impact.</li>
+										<li>Articulate the legal, social, ethical, and professional issues faced by information security and risk professionals.</li>
 									</ul>
 								</div>
 							</section>
-
 						<!-- Two -->
 							<section id="two" class="spotlights">
 								<section>
@@ -73,7 +73,6 @@ nav-menu: true
 									</div>
 								</section>
 							</section>
-
 						<!-- Three -->
 							<section id="three">
 								<div class="inner">
