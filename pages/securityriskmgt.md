@@ -40,6 +40,7 @@ nav-menu: true
 										</div>
 									</div>
 								</section>
+								<!-- Three -->
 								<section>
 									<a href="generic.html" class="image">
 										<img src="images/pic09.jpg" alt="" data-position="top center">
@@ -56,6 +57,7 @@ nav-menu: true
 										</div>
 									</div>
 								</section>
+								<!-- Four -->
 								<section>
 									<a href="generic.html" class="image">
 										<img src="images/pic10.jpg" alt="" data-position="25% 25%">
@@ -73,7 +75,7 @@ nav-menu: true
 									</div>
 								</section>
 							</section>
-						<!-- Three -->
+						<!-- Five -->
 							<section id="three">
 								<div class="inner">
 									<header class="major">
