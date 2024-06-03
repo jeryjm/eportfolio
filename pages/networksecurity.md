@@ -7,82 +7,67 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>Learning Outcomes</h2>
-									</header>
-									<p>I will learn:</p>
-									<ul>
-										<li>Appraise the professional, legal, social, cultural and ethical issues that affect computing professionals.</li>
-										<li>Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.</li>
-										<li>Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.</li>
-										<li>Produce and evaluate critically the resulting research proposal for the chosen topic.</li>
-									</ul>
-								</div>
-							</section>
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic08.jpg" alt="" data-position="center center">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Artefacts</h3>
-											</header>
-											<p>These are the projects carried out to meet those learning outcomes, which are described in the link below.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Reflections</h3>
-											</header>
-											<p>What exactly have I learnt and how?</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">More Information here</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Meeting Notes</h3>
-											</header>
-											<p>Notes from various meetings, as well as feedback from team members and tutors.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">For specific cases, see here</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
-						<!-- Three -->
-							<section id="three">
-								<div class="inner">
-									<header class="major">
-										<h2>Professional Skills Matrix and Action Plan</h2>
-									</header>
-									<p>What skills have I gained or enhanced as a result of this module and how can I use it?  What else do I need to learn?</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">Learn More</a></li>
-									</ul>
-								</div>
-							</section>
+	<div id="section-1" class="spotlights">
+    <div class="inner">
+        <h2 class="major">Lessons learnt and key outcomes</h2>
+        <p>By the units mentioned below, I learnt to understand the fundamentals of network security and critically plan and carry out vulnerability assessments and penetration testing, as well as learn from case studies to enhance the network security of web applications. By leveraging threat modelling frameworks, such as STRIDE and DREAD, I learnt to respectively identify security vulnerabilities and rank them based on their level of severity or impact. Furthermore, I learnt to appreciate the importance of understanding data privacy regulations, including GDPR and MDR for health-related data, and leveraged them to provide evidence-based informed recommendations to improve network security by ensuring the compliance to such directives when relevant.</p>
+    </div>
+</div>
+
+<div id="section-2">
+    <div class="inner">
+        <h3 class="major">Unit 1: History of Network Security, Vulnerabilities and Approaches</h3>
+        <p>During this first unit, I had the chance to appreciate the history of network security, security vulnerabilities, approaches to scan systems and remediate such vulnerabilities. Moreover, I was asked to select a website to scan for security vulnerabilities (<a href="https://ehr-online.co.uk">https://ehr-online.co.uk</a>) and I was able to contribute to a collaborative discussion on the digitalisation and the security implications of the digital economy. Click ‘LEARN MORE’ below to view my post.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-3" class="spotlights">
+    <div class="inner">
+        <h3 class="major">Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model</h3>
+        <p>In this unit, I had the chance to appreciate the importance of understanding and applying the Cyber Kill Chain model to identify security vulnerabilities and guiding businesses to stop cyber-attacks at each stage of the chain. I also provided the first and the second peer responses to a collaborative discussion as a continuation to the unit 1’s activity and performed a vulnerability analysis by leveraging the review of relevant and recent literature. Click ‘LEARN MORE’ below to read my analysis.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-4">
+    <div class="inner">
+        <h3 class="major">Unit 3: Vulnerability Assessments</h3>
+        <p>Throughout this unit, I had the opportunity to reflect on the previous two units and lessons learnt and practised such security-related concepts to undertake this scanning activity. Furthermore, I provided this summary post to conclude the previous collaborative discussion, by blending the knowledge I gathered from my independent research and that learnt from my peers. I also carried out an assignment on a vulnerability audit and assessment, thus outlining a detailed baseline analysis and plan. Click ‘LEARN MORE’ below to read it.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-5" class="spotlights">
+    <div class="inner">
+        <h3 class="major">Unit 4: Breach Analysis and Mitigation</h3>
+        <p>During this unit, I had the chance to apply lessons learnt from previous units to conduct a breach analysis and outline recommendations to mitigate any identified breaches. Moreover, as per this post, I participated in a collaborative discussion to describe the pros and cons of logging, analysing the impact of security vulnerabilities in open-source software, such as Log4j, and strategies to detect them proactively. I also took part in a scanning collaborative activity and my contribution can be accessed by clicking 'LEARN MORE' below.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-6">
+    <div class="inner">
+        <h3 class="major">Unit 5: Logging, Forensics and Future Trends</h3>
+        <p>In this unit, I had the chance to ponder on the lessons learnt from the previous unit and learnt to appreciate logging, forensics, and their principles at a deeper level. Thus, I was able to provide these peer responses as a continuation of the previous unit’s collaborative discussion. Moreover, you can see my review of a security assessment reporting template, which summarises the key principles I learnt and applied, by clicking ‘LEARN MORE’ below.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-7" class="spotlights">
+    <div class="inner">
+        <h3 class="major">Unit 6: The Great Debate: The Future of the Internet</h3>
+        <p>Throughout this unit, I had the chance to cooperate with two peers to discuss the future of the Internet and, in particular, prepare and present this presentation on peer-to-peer overlay networks and their advantages to improve the experience of passengers in autonomous vehicles. Furthermore, I produced the final assignment by performing a vulnerability audit and assessment, summarising my findings and providing them in the form of an executive summary. The final assignment can be accessed by clicking LEARN MORE below. I also wrote an individual reflective piece pondering on the lessons learnt from the entire NS module.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+
+<div id="section-8">
+    <div class="inner">
+        <h3 class="major">Reflections on the NS module, and own self-development</h3>
+        <p>In this reflective piece, I summarised what I learnt on Network Security in the NS module, the work I carried out throughout it, and their impact on my personal and professional development. Click ‘LEARN MORE’ below to read it.</p>
+        <p><a href="#">LEARN MORE</a></p>
+    </div>
+</div>
+					
 </div>
