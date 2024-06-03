@@ -8,45 +8,72 @@ description: Detailed analysis and insights from the Security and Risk Managemen
 show_tile: true
 ---
 
-# Security and Risk Management
+<div id="main" class="alt">
 
-## Introductory Seminar
-**Date and Time:** Thursday 14th March 2024 (14:00 GMT)
+<section id="seminars">
+  <div class="inner">
+    <header class="major">
+      <h2>Key Seminars</h2>
+    </header>
+    <ul>
+      <li><strong>Introductory Seminar:</strong> The introductory seminar provided an overview of the Security and Risk Management (SRM) module, introducing key concepts such as risk, threats, vulnerabilities, and the importance of risk management in modern enterprises (Ortwin et al., 2021).</li>
+      <li><strong>User Participation in the Risk Management Process:</strong> This seminar highlighted the significance of involving users in the risk management process. It emphasized collaborative risk assessments and how user feedback can enhance the identification and mitigation of potential risks (Spears & Barki, 2010).</li>
+      <li><strong>Threat Modelling Exercises:</strong> Hands-on threat modeling exercises were conducted to teach practical skills in identifying and mitigating potential threats. Various threat modeling frameworks and tools were introduced (Shostack, 2014).</li>
+      <li><strong>Security Standards:</strong> An in-depth exploration of security standards such as ISO 31000, PCI DSS, and GDPR. The seminar covered their importance, application, and compliance requirements (AIRMIC, 2010).</li>
+      <li><strong>Quantitative Risk Modelling:</strong> Introduction to quantitative risk modeling techniques, including Monte Carlo simulations and other probabilistic methods for risk assessment (Aslanyan, 2021).</li>
+      <li><strong>DR Solutions Design and Review:</strong> Focused on designing disaster recovery (DR) solutions to ensure business continuity. The seminar covered best practices for creating robust DR plans (Alhazmi & Malaiya, 2013).</li>
+      <li><strong>The Great Debate – The Future of SRM:</strong> A forward-looking discussion on the future trends in security and risk management, highlighting emerging challenges and innovations in the field (Bing & Daniel, 2020).</li>
+    </ul>
+  </div>
+</section>
 
-In this seminar, we introduced the key concepts of Security and Risk Management (SRM). The focus was on understanding the importance of SRM in contemporary business environments, highlighting key terminologies such as assets, vulnerabilities, threats, and risks.
+<section id="coursework">
+  <div class="inner">
+    <header class="major">
+      <h2>Coursework and Projects</h2>
+    </header>
+    <ul>
+      <li><strong>Development Team Project: Risk Identification Report:</strong> 
+        <ul>
+          <li><strong>Unit 6:</strong> A comprehensive risk identification report for Pampered Pets, evaluating current risks and potential digitalization impacts.</li>
+          <li><strong>Unit 11:</strong> An executive summary estimating the probabilities of quality and supply chain risks due to digitalization.</li>
+        </ul>
+      </li>
+      <li><strong>Individual Contributions:</strong> Detailed individual contributions to the team projects, including specific tasks and responsibilities undertaken during the module.</li>
+      <li><strong>Final Project Evaluation:</strong> An evaluation of the final project compared to the initial status document, highlighting improvements and areas of learning.</li>
+    </ul>
+  </div>
+</section>
 
-## User Participation in the Risk Management Process
-**Date and Time:** Thursday 21st March 2024 (14:00 GMT)
+<section id="learning-outcomes">
+  <div class="inner">
+    <header class="major">
+      <h2>Learning Outcomes</h2>
+    </header>
+    <ul>
+      <li><strong>Security and Risk Management Process:</strong> Reflections on the SRM process based on the knowledge gained throughout the module, including the application of theoretical concepts in practical scenarios.</li>
+      <li><strong>Individual Contributions:</strong> Critical analysis of individual contributions to team activities, including personal growth and skill development.</li>
+      <li><strong>Experience as a Team Member:</strong> Insights into the experience of working as part of a development team, focusing on collaboration, communication, and project management.</li>
+      <li><strong>Impact on Professional/Personal Development:</strong> The impact of the module on professional and personal development, including new skills acquired and how they can be applied in real-world scenarios.</li>
+    </ul>
+  </div>
+</section>
 
-This session emphasized the critical role of user involvement in the risk management process. It discussed various frameworks and methodologies to enhance user participation, ensuring comprehensive risk assessments.
+<section id="references">
+  <div class="inner">
+    <header class="major">
+      <h2>References</h2>
+    </header>
+    <ul>
+      <li>AIRMIC. (2010). A structured approach to Enterprise Risk Management (ERM) and the requirements of ISO 31000. Federation of European Risk Management Associations. Retrieved from <a href="https://www.ferma.eu/app/uploads/2011/10/a-structured-approach-to-erm.pdf">https://www.ferma.eu/app/uploads/2011/10/a-structured-approach-to-erm.pdf</a></li>
+      <li>Alhazmi, O. H., & Malaiya, Y. K. (2013). Evaluating disaster recovery plans using the cloud. 2013 Proceedings Annual Reliability and Maintainability Symposium (RAMS), IEEE, 1–6. <a href="https://doi.org/10.1109/RAMS.2013.6517700">https://doi.org/10.1109/RAMS.2013.6517700</a></li>
+      <li>Aslanyan, T. K. (2021). Monte Carlo simulation and variants with Python. Towards Data Science. Retrieved from <a href="https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f">https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f</a></li>
+      <li>Bing, X., & Daniel, M. (2020). The transformative impact of Industry 4.0 on SMEs. Production & Manufacturing Research, 10(1), 696-726.</li>
+      <li>Ortwin R. et al. (2021). The role of digitalisation in the sustainable transformation of society and industry. Journal of Digital Transformation, 1(2), 45-60.</li>
+      <li>Shostack, A. (2014). Threat modeling: Designing for security. Indianapolis, IN: John Wiley and Sons. Retrieved from <a href="https://ebookcentral.proquest.com/lib/universityofessex-ebooks/detail.action?pq-origsite=primo&docID=1629177">https://ebookcentral.proquest.com/lib/universityofessex-ebooks/detail.action?pq-origsite=primo&docID=1629177</a></li>
+      <li>Spears, J. L., & Barki, H. (2010). User participation in information systems security risk management. MIS Quarterly, 34(3). Retrieved from <a href="https://www.jstor.org/stable/25750689">https://www.jstor.org/stable/25750689</a></li>
+    </ul>
+  </div>
+</section>
 
-## Threat Modelling Exercises
-**Date and Time:** Tuesday 2nd April 2024 (14:00 BST)
-
-We delved into threat modelling techniques, including STRIDE and DREAD methodologies, and practiced applying these techniques through collaborative exercises.
-
-## Security Standards
-**Date and Time:** Thursday 18th April 2024 (14:00 BST)
-
-This seminar covered essential security standards such as ISO 31000 and GDPR, discussing their implications for businesses and how to ensure compliance.
-
-## Quantitative Risk Modelling
-**Date and Time:** Thursday 2nd May 2024 (14:00 BST)
-
-An introduction to quantitative risk modelling techniques, including Monte Carlo simulations, to provide accurate risk assessments and support decision-making processes.
-
-## DR Solutions Design and Review
-**Date and Time:** Thursday 16th May 2024 (14:00 BST)
-
-This session focused on designing disaster recovery solutions, highlighting best practices and modern approaches to ensure business continuity during disruptions.
-
-## The Great Debate – The Future of SRM
-**Date and Time:** Thursday 30th May 2024 (14:00 BST)
-
-A forward-looking discussion on the future trends in SRM, considering emerging technologies and evolving risk landscapes.
-
-## Reflections on Learning
-Throughout the module, I have engaged deeply with the material, particularly appreciating the practical threat modelling exercises and the comprehensive overview of security standards. These seminars have significantly enhanced my understanding of the critical role of SRM in maintaining business integrity and resilience.
-
-### Critical Analysis of Learning
-The practical applications of threat modelling and quantitative risk assessments were particularly valuable. I learned the importance of early threat identification and the need for robust disaster recovery plans to mitigate potential risks. This learning will be instrumental in my future professional endeavors in ensuring secure and resilient business operations.
+</div>

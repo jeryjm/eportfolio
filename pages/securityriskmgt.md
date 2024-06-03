@@ -3,6 +3,7 @@ layout: page
 title: Security Risk Management
 image: assets/images/pic01.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
