@@ -16,13 +16,13 @@ show_tile: true
       <h2>Key Seminars</h2>
     </header>
     <ul>
-      <li><strong>Introductory Seminar:</strong> The introductory seminar provided an overview of the Security and Risk Management (SRM) module, introducing key concepts such as risk, threats, vulnerabilities, and the importance of risk management in modern enterprises (Ortwin et al., 2021).</li>
-      <li><strong>User Participation in the Risk Management Process:</strong> This seminar highlighted the significance of involving users in the risk management process. It emphasized collaborative risk assessments and how user feedback can enhance the identification and mitigation of potential risks (Spears & Barki, 2010).</li>
-      <li><strong>Threat Modelling Exercises:</strong> Hands-on threat modeling exercises were conducted to teach practical skills in identifying and mitigating potential threats. Various threat modeling frameworks and tools were introduced (Shostack, 2014).</li>
-      <li><strong>Security Standards:</strong> An in-depth exploration of security standards such as ISO 31000, PCI DSS, and GDPR. The seminar covered their importance, application, and compliance requirements (AIRMIC, 2010).</li>
+      <li><strong>Introductory Seminar:</strong> The introductory session presented an overview of the Security and Risk Management (SRM) module, including fundamental concepts such as risk, threats, vulnerabilities, and the significance of risk management in modern companies (Ortwin et al., 2021).</li>
+      <li><strong>User Participation in the Risk Management Process:</strong> The seminar emphasized the importance of incorporating users in the risk management process. It emphasized collaborative risk assessments and how user feedback may help identify and mitigate potential dangers (Spears & Barki, 2010).</li>
+      <li><strong>Threat Modelling Exercises:</strong> Hands-on threat modeling exercises were used to teach practical skills for identifying and managing possible risks. A variety of threat modeling frameworks and tools were introduced (Shostack, 2014).</li>
+      <li><strong>Security Standards:</strong> An in-depth look at security standards like ISO 31000, PCI DSS, and GDPR. The seminar discussed their importance, application, and compliance needs (AIRMIC, 2010).</li>
       <li><strong>Quantitative Risk Modelling:</strong> Introduction to quantitative risk modeling techniques, including Monte Carlo simulations and other probabilistic methods for risk assessment (Aslanyan, 2021).</li>
-      <li><strong>DR Solutions Design and Review:</strong> Focused on designing disaster recovery (DR) solutions to ensure business continuity. The seminar covered best practices for creating robust DR plans (Alhazmi & Malaiya, 2013).</li>
-      <li><strong>The Great Debate – The Future of SRM:</strong> A forward-looking discussion on the future trends in security and risk management, highlighting emerging challenges and innovations in the field (Bing & Daniel, 2020).</li>
+      <li><strong>DR Solutions Design and Review:</strong> Focused on developing disaster recovery (DR) solutions to maintain business continuity. The program discussed recommended practices for developing comprehensive DR plans (Alhazmi & Malaiya, 2013).</li>
+      <li><strong>The Great Debate – The Future of SRM:</strong> A forward-looking conversation on future trends in security and risk management, emphasizing rising problems and solutions in the industry (Bing & Daniel, 2020).</li>
     </ul>
   </div>
 </section>
