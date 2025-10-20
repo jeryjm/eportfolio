@@ -15,7 +15,7 @@ Each item includes a short note on what it demonstrates.
 
 **Title:** Reflective Piece
 **Format:** PDF  
-**Download:** [Reflective Piece PDF]({{ "/assets/docs/Tyrone Lim - Research Methods And Professional Practice July 2025 - Reflective Piece.pdf" | relative_url }})
+**Download:** [Reflective Piece]({{ "/assets/docs/Tyrone Lim - Research Methods And Professional Practice July 2025 - Reflective Piece.pdf" | relative_url }})
 
 **What this demonstrates:**
 - A structured reflective narrative using the 3 W’s (**What? So what? Now what?**).
@@ -28,7 +28,7 @@ Each item includes a short note on what it demonstrates.
 
 **Title:** Literature Review — Final Submission  
 **Format:** PDF  
-**Download:** [Literature Review PDF]({{ "/assets/docs/Tyrone Lim - Lit Review - Cloud Security Risks in the Shipping Sector.pdf" | relative_url }})
+**Download:** [Literature Review]({{ "/assets/docs/Tyrone Lim - Lit Review - Cloud Security Risks in the Shipping Sector.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Search & screening strategy:** databases/keywords, inclusion/exclusion criteria, and a transparent selection narrative.
@@ -40,9 +40,9 @@ Each item includes a short note on what it demonstrates.
 ## 3) Research Proposal — Slides
 
 **Title:** Research Proposal — Presentation Deck 
-**Format:** PDF (Slides) + PDF 
-**Download (Slides):** [Proposal Slides PDF]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Research Proposal Presentation.pdf" | relative_url }})
-**Download (Transcript):** [Proposal Transcript PDF]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Audio Transcript.pdf" | relative_url }})
+**Format:** PDF 
+- **Download (Slides):** [Proposal Slides]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Research Proposal Presentation.pdf" | relative_url }})
+ - **Download (Transcript):** [Proposal Transcript]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Audio Transcript.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Problem framing & RQs:** precise research questions grounded in the literature review.
