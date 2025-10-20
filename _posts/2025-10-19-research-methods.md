@@ -13,9 +13,9 @@ Each item includes a short note on what it demonstrates for assessors.
 
 ## 1) Reflective Essay 
 
-**Title:** Reflective Essay — Final Submission  
+**Title:** Reflective Essay
 **Format:** PDF  
-**Download:** **[/assets/docs/research-methods-reflection.pdf](/assets/docs/research-methods-reflection.pdf)**
+**Download:** [Reflective Essay PDF]({{ "/assets/docs/research-methods-reflection.pdf" | relative_url }})
 
 **What this demonstrates:**
 - A structured reflective narrative using the 3 W’s (**What? So what? Now what?**).
@@ -28,7 +28,7 @@ Each item includes a short note on what it demonstrates for assessors.
 
 **Title:** Literature Review — Final Submission  
 **Format:** PDF  
-**Download:** **[/assets/docs/literature-review.pdf](/assets/docs/literature-review.pdf)**
+**Download:** [Literature Review PDF]({{ "/assets/docs/literature-review.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Search & screening strategy:** databases/keywords, inclusion/exclusion criteria, and a transparent selection narrative.
@@ -41,8 +41,8 @@ Each item includes a short note on what it demonstrates for assessors.
 
 **Title:** Research Proposal — Presentation Deck (with optional transcript)  
 **Format:** PDF (Slides) + PDF (Transcript, if applicable)  
-**Download (Slides):** **[/assets/docs/research-proposal-slides.pdf](/assets/docs/research-proposal-slides.pdf)**  
-**Download (Transcript):** **[/assets/docs/research-proposal-transcript.pdf](/assets/docs/research-proposal-transcript.pdf)**
+**Download (Slides):** [Proposal Slides PDF]({{ "/assets/docs/research-proposal-slides.pdf" | relative_url }})
+**Download (Transcript):** [Proposal Transcript PDF]({{ "/assets/docs/research-proposal-transcript.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Problem framing & RQs:** precise research questions grounded in the literature review.
