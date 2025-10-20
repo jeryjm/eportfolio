@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 order: 1
 ---
-
+<!-- 
 <style>
 /* Readable width + tidy vertical rhythm for this page only */
 #main .inner { max-width: 58rem; }
@@ -15,7 +15,9 @@ order: 1
 #main .inner ul, #main .inner ol { margin: 0 0 1.2rem 1.25rem; }
 #main .inner li { margin: .28rem 0; }
 ul.actions { margin: 1rem 0 2rem; }
-</style>
+</style> -->
+
+<div id="main" class="alt">
 
 <section>
   <header class="major">
@@ -72,7 +74,7 @@ ul.actions { margin: 1rem 0 2rem; }
       </thead>
       <tbody>
         <tr>
-          <td>Reflective writing (3 W’s)</td>
+          <td>Reflective writing</td>
           <td>Narrative of change + actionable “Now what” habits</td>
           <td><a href="{{ "/work/rmpp/completed/#1-reflective-essay" | relative_url }}">Completed artefacts → Reflective Essay</a></td>
         </tr>
@@ -167,3 +169,5 @@ ul.actions { margin: 1rem 0 2rem; }
     <li>Package quant worksheets into assessor-friendly PDFs with a brief preface page each.</li>
   </ul>
 </section>
+
+</div>
