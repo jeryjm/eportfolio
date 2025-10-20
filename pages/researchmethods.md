@@ -3,8 +3,8 @@ layout: page
 title: Research Methods and Professional Practice
 image: assets/images/pic01.jpg
 nav-menu: true
-show_tile: true
-order: 1
+show_tile: false
+order: 7
 ---
 
 <!-- Main -->

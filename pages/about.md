@@ -3,7 +3,7 @@ layout: "page"
 title: About Me
 nav-menu: false
 show_tile: false
-order: 4
+order: 8
 ---
 <!-- Main -->
 <div id="main" class="alt">
