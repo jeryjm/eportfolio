@@ -1,8 +1,8 @@
 ---
 layout: "page"
 title: About Me
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 order: 4
 ---
 <!-- Main -->
