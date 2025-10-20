@@ -2,7 +2,8 @@
 layout: "page"
 title: About Me
 nav-menu: true
-show_tile: false
+show_tile: true
+order: 4
 ---
 <!-- Main -->
 <div id="main" class="alt">

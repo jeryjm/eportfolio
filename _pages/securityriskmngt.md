@@ -6,6 +6,7 @@ subtitle: Insights and Reflections
 image: assets/images/pic01.jpg
 description: Detailed analysis and insights from the Security and Risk Management module.
 show_tile: true
+order: 3
 ---
 
 <div id="main" class="alt">

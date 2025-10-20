@@ -3,6 +3,8 @@ layout: page
 title: Network Security
 image: assets/images/pic01.jpg
 nav-menu: true
+show_tile: true
+order: 2
 ---
 
 <!-- Main -->
