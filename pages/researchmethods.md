@@ -2,7 +2,7 @@
 layout: page
 title: "Research Methods & Professional Practice July 2025 B"
 permalink: /research-methods/
-image: assets/images/rm-tile.jpg
+# image: assets/images/rm-tile.jpg
 description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my RM&PP e-portfolio."
 nav-menu: true
 show_tile: true
@@ -15,6 +15,8 @@ This subject page explains **what this module is about**, **what is required in 
 
 
 **[View my completed Research Methods & Professional Practice artefacts](/work/rmpp/completed/)**
+**[View my completed RM&PP artefacts]({{ "/work/rmpp/completed/" | relative_url }})**
+
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Network Security
-image: assets/images/pic01.jpg
+permalink: /network-security/
+# image: assets/images/pic01.jpg
 nav-menu: true
 show_tile: true
 order: 2
