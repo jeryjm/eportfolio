@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 order: 1
 ---
-<!-- 
+
 <style>
 /* Readable width + tidy vertical rhythm for this page only */
 #main .inner { max-width: 58rem; }
@@ -15,7 +15,7 @@ order: 1
 #main .inner ul, #main .inner ol { margin: 0 0 1.2rem 1.25rem; }
 #main .inner li { margin: .28rem 0; }
 ul.actions { margin: 1rem 0 2rem; }
-</style> -->
+</style>
 
 <div id="main" class="alt">
 
