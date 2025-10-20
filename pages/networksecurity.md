@@ -2,7 +2,6 @@
 layout: page
 title: Network Security
 permalink: /network-security/
-# image: assets/images/pic01.jpg
 description: Detailed analysis and insights from the Network Security module.
 nav-menu: true
 show_tile: true

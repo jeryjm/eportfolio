@@ -2,13 +2,13 @@
 layout: page
 title: "Research Methods & Professional Practice July 2025 B"
 permalink: /research-methods/
-# image: assets/images/rm-tile.jpg
 description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my Research Methods & Professional Practice e-portfolio."
 nav-menu: true
 show_tile: true
 order: 1
 ---
 
+<div id="main" class="alt">
 # Research Methods & Professional Practice
 
 This subject page explains **what the module covers**, **what the e-portfolio expects**, **how my evidence maps to the criteria**, and **how I ensure academic integrity and professional ethics**.
@@ -95,3 +95,5 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - Extend uncertainty examples in the statistics section per tutor feedback.  
 - Finalise proposal transcript with explicit **threats to validity** and **mitigations** table.  
 - Package quant worksheets into assessor-friendly PDFs with a brief preface page each.
+
+</div>
