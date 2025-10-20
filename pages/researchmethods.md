@@ -9,27 +9,19 @@ order: 1
 ---
 
 <style>
-/* Scope all typography to THIS page only */
+/* Scope styles to this page only */
 .rmpp { max-width: 58rem; margin: 0 auto; }
-
-/* Headings: enforce generous vertical rhythm */
-.rmpp h1 { margin: 0 0 1.1rem !important; line-height: 1.2 !important; }
-.rmpp h2 { margin: 2.25rem 0 .9rem !important; line-height: 1.25 !important; }
-
-/* Body text & lists */
-.rmpp p { line-height: 1.7 !important; margin: 0 0 1.05rem !important; }
-.rmpp ul, .rmpp ol { margin: 0 0 1.25rem 1.25rem !important; }
-.rmpp li { margin: .28rem 0 !important; }
-
-/* Buttons & tables */
-.rmpp ul.actions { margin: 1rem 0 2rem !important; }
-.rmpp .table-wrapper { margin: 1rem 0 2rem !important; }
-
-/* Neutralise horizontal rules in case any remain */
-.rmpp hr { display: none !important; }
+.rmpp p { line-height: 1.7; margin: 0 0 1.05rem; }
+.rmpp ul, .rmpp ol { margin: 0 0 1.2rem 1.25rem; }
+.rmpp li { margin: .28rem 0; }
+.rmpp h1 { margin: 0 0 1.1rem; line-height: 1.2; }
+.rmpp h2 { margin: 2.25rem 0 .9rem; line-height: 1.25; }
+.rmpp ul.actions { margin: 1rem 0 2rem; }
+.rmpp .table-wrapper { margin: 1rem 0 2rem; }
 </style>
 
-<div class="rmpp">
+<!-- IMPORTANT: markdown="1" forces Markdown parsing inside this HTML wrapper -->
+<div class="rmpp" markdown="1">
 
 # Research Methods & Professional Practice
 
@@ -47,7 +39,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **Ethics, governance, and professionalism:** Belmont/Menlo principles, data protection (e.g., JDPA/GDPR alignment), consent, risk & harm mitigation, reproducibility, and transparency.
 - **Communication:** structured academic writing, APA referencing, and persuasive presentations for technical/non-technical stakeholders.
 
-## 2) Learning outcomes 
+## 2) Learning outcomes
 
 1. **Design before methods:** state the problem/RQ, assumptions, data needed, and analysis logic before selecting tools or tests.  
 2. **Use evidence responsibly:** summarise data with both central tendency and spread; show uncertainty to avoid overconfidence.  
@@ -55,7 +47,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 4. **Act ethically:** anticipate risks to people/data; document mitigations; follow consent and governance requirements.  
 5. **Communicate for decisions:** every figure or section ends with a practical takeaway for an informed decision maker.
 
-## 3) E-portfolio expectations 
+## 3) E-portfolio expectations
 
 - **Artefacts:** authentic outputs (reflection, literature work, proposal material, quant practice, ethics artefacts).  
 - **Feedback trail:** record what peers/tutors said and *how I changed the work* as a result.  
@@ -66,43 +58,16 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 ## 4) Assessment mapping → direct links
 
 <div class="table-wrapper">
-<table>
-  <thead>
-    <tr><th>Requirement</th><th>How I provide it</th><th>Where to look</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Reflective writing</td>
-      <td>Narrative of change + actionable “Now what” habits</td>
-      <td><a href="{{ "/work/rmpp/completed/#1-reflective-essay" | relative_url }}">Completed artefacts → Reflective Essay</a></td>
-    </tr>
-    <tr>
-      <td>Literature review</td>
-      <td>Focused review, critique, gap identification, throughline to proposal</td>
-      <td><a href="{{ "/work/rmpp/completed/#2-literature-review" | relative_url }}">Completed artefacts → Literature Review</a></td>
-    </tr>
-    <tr>
-      <td>Research proposal</td>
-      <td>Slides (+ transcript): RQs, data/analysis plan, validity/limitations, ethics, plan</td>
-      <td><a href="{{ "/work/rmpp/completed/#3-research-proposal--slides--transcript" | relative_url }}">Completed artefacts → Research Proposal</a></td>
-    </tr>
-    <tr>
-      <td>Quant skills</td>
-      <td>Summary measures, uncertainty, inference logic, decision-ready chart</td>
-      <td>Evidence summarised across the three submissions</td>
-    </tr>
-    <tr>
-      <td>Ethics &amp; governance</td>
-      <td>Checklist + embedded reasoning in reflection/proposal</td>
-      <td>Reflected in the Reflection &amp; Proposal sections</td>
-    </tr>
-    <tr>
-      <td>Process evidence</td>
-      <td>Meeting notes/feedback and the changes made</td>
-      <td>Notes within each artefact and commit history</td>
-    </tr>
-  </tbody>
-</table>
+
+| Requirement | How I provide it | Where to look |
+|---|---|---|
+| Reflective writing | Narrative of change + actionable “Now what” habits | [Completed artefacts → Reflective Essay]({{ "/work/rmpp/completed/#1-reflective-essay" | relative_url }}) |
+| Literature review | Focused review, critique, gap identification, throughline to proposal | [Completed artefacts → Literature Review]({{ "/work/rmpp/completed/#2-literature-review" | relative_url }}) |
+| Research proposal | Slides (+ transcript): RQs, data/analysis plan, validity/limitations, ethics, plan | [Completed artefacts → Research Proposal]({{ "/work/rmpp/completed/#3-research-proposal--slides--transcript" | relative_url }}) |
+| Quant skills | Summary measures, uncertainty, inference logic, decision-ready chart | Evidence summarised across the three submissions |
+| Ethics & governance | Checklist + embedded reasoning in reflection/proposal | Reflected in the Reflection & Proposal sections |
+| Process evidence | Meeting notes/feedback and the changes made | Notes within each artefact and commit history |
+
 </div>
 
 ## 5) Academic integrity & authenticity
@@ -128,7 +93,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **JDPA alignment:** lawfulness, fairness, transparency, purpose limitation, minimisation, accuracy, storage limitation, integrity/confidentiality, accountability.  
 - **Before data collection:** *purpose → lawful basis/consent → minimisation → storage/retention → risk/mitigation → DSAR/complaints channels.*
 
-## 8) Writing & referencing 
+## 8) Writing & referencing
 
 - Cite ideas even when paraphrased; use quotation marks only for short, significant phrases.  
 - Reference list matches in-text citations (no orphans).  
