@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Methods & Professional Practice"
+title: "Research Methods & Professional Practice July 2025 B"
 permalink: /research-methods/
 image: assets/images/rm-tile.jpg
 description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my RM&PP e-portfolio."
@@ -9,16 +9,16 @@ show_tile: true
 order: 1
 ---
 
-# Research Methods & Professional Practice (RM&PP)
+# Research Methods & Professional Practice
 
 This subject page explains **what this module is about**, **what is required in the e-portfolio**, **how my evidence maps to the criteria**, and **how I ensure academic integrity and professional ethics**.  
-If you only want to see what I’ve **actually submitted**, jump to the single post:
 
-**[View my completed RM&PP artefacts](/work/rmpp/completed/)**
+
+**[View my completed Research Methods & Professional Practice artefacts](/work/rmpp/completed/)**
 
 ---
 
-## 1) What this module covers (in plain English)
+## 1) What this module covers 
 
 - **Research mindset** for computing/IT projects: framing clear research questions (RQs), choosing appropriate methods, and justifying decisions.
 - **Literature skills:** systematic search, screening, synthesis, critical appraisal, and identifying gaps.
@@ -28,7 +28,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 2) Learning outcomes (how I interpret them)
+## 2) Learning outcomes 
 
 1. **Design before methods:** clearly state the problem/RQ, assumptions, data needed, and analysis logic before selecting tools or tests.  
 2. **Use evidence responsibly:** summarise data with both central tendency and spread; show uncertainty to avoid overconfidence.  
@@ -38,7 +38,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 3) E-portfolio expectations (how I implement them)
+## 3) E-portfolio expectations 
 
 - **Artefacts**: Provide authentic outputs (reflection, literature work, proposal material, quant practice, ethics artefacts).  
 - **Feedback trail**: Record what peers/tutors said and *how I changed the work* as a result.  
@@ -50,7 +50,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 4) Assessment mapping (where assessors will find each requirement)
+## 4) Assessment mapping 
 
 | Requirement | How I provide it | Where to look |
 |---|---|---|
@@ -94,7 +94,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 8) Writing & referencing (APA quick rules I apply)
+## 8) Writing & referencing 
 
 - **Cite ideas** even when paraphrased; use quotation marks only for short, significant phrases.  
 - **Reference list** matches in-text citations (no orphans).  
@@ -104,7 +104,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 9) File hygiene (how I name and store evidence)
+## 9) File hygiene 
 
 - **Stable links:** artefacts live in `assets/docs/` and figures in `assets/images/`.  
 - **Filenames:** `YYYYMMDD_topic_version.ext` (e.g., `20251020_reflective-essay_v1.pdf`).  
@@ -113,7 +113,7 @@ If you only want to see what I’ve **actually submitted**, jump to the single p
 
 ---
 
-## 10) Roadmap (what’s next)
+## 10) Roadmap
 
 - Incorporate tutor feedback on the statistical interpretation section and extend the uncertainty examples.  
 - Finalise the proposal transcript with explicit *threats to validity* and *mitigations* table.  
