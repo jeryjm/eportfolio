@@ -1,90 +1,123 @@
 ---
 layout: page
-title: Research Methods and Professional Practice
-image: assets/images/pic01.jpg
+title: "Research Methods & Professional Practice July 2025 B"
+permalink: /research-methods/
+image: assets/images/rm-tile.jpg
+description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my RM&PP e-portfolio."
 nav-menu: true
-show_tile: false
-order: 7
+show_tile: true
+order: 1
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>Learning Outcomes</h2>
-									</header>
-									<p>I will learn:</p>
-									<ul>
-										<li>Appraise the professional, legal, social, cultural and ethical issues that affect computing professionals.</li>
-										<li>Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.</li>
-										<li>Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.</li>
-										<li>Produce and evaluate critically the resulting research proposal for the chosen topic.</li>
-									</ul>
-								</div>
-							</section>
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic08.jpg" alt="" data-position="center center">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Artefacts</h3>
-											</header>
-											<p>These are the projects carried out to meet those learning outcomes, which are described in the link below.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic09.jpg" alt="" data-position="top center">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Reflections</h3>
-											</header>
-											<p>What exactly have I learnt and how?</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">More Information here</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pic10.jpg" alt="" data-position="25% 25%">
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Meeting Notes</h3>
-											</header>
-											<p>Notes from various meetings, as well as feedback from team members and tutors.</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">For specific cases, see here</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
-						<!-- Three -->
-							<section id="three">
-								<div class="inner">
-									<header class="major">
-										<h2>Professional Skills Matrix and Action Plan</h2>
-									</header>
-									<p>What skills have I gained or enhanced as a result of this module and how can I use it?  What else do I need to learn?</p>
-									<ul class="actions">
-										<li><a href="generic.html" class="button next">Learn More</a></li>
-									</ul>
-								</div>
-							</section>
-</div>
+# Research Methods & Professional Practice
+
+This subject page explains **what this module is about**, **what is required in the e-portfolio**, **how my evidence maps to the criteria**, and **how I ensure academic integrity and professional ethics**.  
+
+
+**[View my completed Research Methods & Professional Practice artefacts](/work/rmpp/completed/)**
+
+---
+
+## 1) What this module covers 
+
+- **Research mindset** for computing/IT projects: framing clear research questions (RQs), choosing appropriate methods, and justifying decisions.
+- **Literature skills:** systematic search, screening, synthesis, critical appraisal, and identifying gaps.
+- **Quant fundamentals:** summary measures (location/dispersion), uncertainty (intervals, percentiles), inference logic (H₀/H₁, error types), and decision-ready visualisations.
+- **Ethics, governance, and professionalism:** Belmont/Menlo principles, data protection (e.g., JDPA/GDPR alignment), consent, risk and harm mitigation, reproducibility, and transparency.
+- **Communication:** structured academic writing, APA referencing, and persuasive presentations for technical/non-technical stakeholders.
+
+---
+
+## 2) Learning outcomes 
+
+1. **Design before methods:** clearly state the problem/RQ, assumptions, data needed, and analysis logic before selecting tools or tests.  
+2. **Use evidence responsibly:** summarise data with both central tendency and spread; show uncertainty to avoid overconfidence.  
+3. **Choose and defend methods:** explain *why* a method/visual fits the question (not just “because we covered it in class”).  
+4. **Act ethically:** anticipate risks to people/data; document mitigations; follow consent and governance requirements.  
+5. **Communicate for decisions:** every figure or section ends with a practical takeaway relevant to an informed decision maker.
+
+---
+
+## 3) E-portfolio expectations 
+
+- **Artefacts**: Provide authentic outputs (reflection, literature work, proposal material, quant practice, ethics artefacts).  
+- **Feedback trail**: Record what peers/tutors said and *how I changed the work* as a result.  
+- **Reflective piece**: Use the 3 W’s — **What? So what? Now what?** — to show growth and concrete habits I will keep.  
+- **Meeting notes**: Track agreements, decisions, and action items from tutorials or group sessions.  
+- **Professional presentation**: Clean structure, correct APA citations, accessible documents, consistent filenames.
+
+> On this site, I keep the homepage minimal. All **completed** items are listed on a single post page to avoid scattered links.
+
+---
+
+## 4) Assessment mapping 
+
+| Requirement | How I provide it | Where to look |
+|---|---|---|
+| Reflective writing (3 W’s) | Narrative of change + actionable “Now what” habits | The **Completed Artefacts** post → “Reflective Essay (final)” |
+| Literature work | Focused review, critique, and gap identification | (Will appear in the post page once finalised) |
+| Research proposal | Slides + transcript: RQs, data/analysis plan, threats to validity, ethics | (Will appear in the post page once finalised) |
+| Quant skills | Summary measures, uncertainty, inference logic, decision-ready chart | (Will appear in the post page once finalised) |
+| Ethics & governance | Checklist + ethical reasoning embedded in proposal/reflection | The **Completed Artefacts** post (as relevant items are finalised) |
+| Process evidence | Meeting notes/feedback and the changes made | Reflected in each artefact’s “assessor notes” section on the post page |
+
+> I only list **completed** items on the post page. Anything “in progress” stays off the site to prevent confusion.
+
+---
+
+## 5) How I ensure academic integrity & authenticity
+
+- **My own work**: I author all text, figures, and analysis decisions. Any collaboration/feedback is acknowledged.  
+- **Citations**: I use APA; quotes are limited; paraphrases retain original meaning with citations.  
+- **Data & privacy**: If live or sensitive data are used, I anonymise and document permissions; if synthetic data are used, I state how it was generated.  
+- **Reproducibility**: Figures/numbers in PDFs are reproducible from saved working files; filenames encode version/date.  
+- **Change log**: Commit messages and “assessor notes” in the post page identify what changed and why.
+
+---
+
+## 6) Visualisation & analysis standards I follow
+
+- **Match visual to question** (comparison, distribution, relationship, part-to-whole…); avoid chartjunk.  
+- **Show spread/uncertainty** (e.g., P50/P90 or intervals) alongside point estimates.  
+- **Caption with intent**: every figure states the mapping (what is on each axis), the population/scope, and the single decision-relevant takeaway.  
+- **Avoid pseudo-precision**: round to meaningful resolution; state assumptions.  
+- **Ethical display**: no misleading axes, colours, or truncated scales unless clearly justified.
+
+---
+
+## 7) Ethics and data protection (how I operationalise it)
+
+- **Belmont** (Respect, Beneficence, Justice): consent, minimise harm, equitable treatment.  
+- **Menlo** (ICT-specific): consider stakeholder risks, data flows, and potential dual-use impacts.  
+- **Local law readiness**: align with Jamaican Data Protection Act (JDPA) principles—lawfulness, fairness, transparency, purpose limitation, minimisation, accuracy, storage limitation, integrity/confidentiality, accountability.  
+- **Before collecting data** I complete: *purpose → lawful basis/consent → data minimisation → storage/retention → risk/mitigation → contact channels for DSAR/complaints.*
+
+---
+
+## 8) Writing & referencing 
+
+- **Cite ideas** even when paraphrased; use quotation marks only for short, significant phrases.  
+- **Reference list** matches in-text citations (no orphans).  
+- **Consistent voice** and tense; avoid filler and undefined jargon; define acronyms on first use.  
+- **Figures/tables** have titles, captions, and sources if adapted.  
+- **Proofing**: run a grammar/style pass and a reference manager check before exporting to PDF.
+
+---
+
+## 9) File hygiene 
+
+- **Stable links:** artefacts live in `assets/docs/` and figures in `assets/images/`.  
+- **Filenames:** `YYYYMMDD_topic_version.ext` (e.g., `20251020_reflective-essay_v1.pdf`).  
+- **PDF exports:** bookmarks enabled; fonts embedded; images at 2× for readability.  
+- **Accessibility:** check contrast, add alt text to figures, and ensure logical heading order.
+
+---
+
+## 10) Roadmap
+
+- Incorporate tutor feedback on the statistical interpretation section and extend the uncertainty examples.  
+- Finalise the proposal transcript with explicit *threats to validity* and *mitigations* table.  
+- Package quant worksheets into assessor-friendly PDFs with a short preface page each.
+
+---
+
