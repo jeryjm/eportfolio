@@ -61,7 +61,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 
 | Requirement | How I provide it | Where to look |
 |---|---|---|
-| Reflective writing | Narrative of change + actionable “Now what” habits | [Completed artefacts → Reflective Essay]({{ "/work/rmpp/completed/#1-reflective-essay" | relative_url }}) |
+| Reflective writing | Narrative of change + actionable “Now what” habits | [Completed artefacts → Reflective Piece]({{ "/work/rmpp/completed/#1-reflective-piece" | relative_url }}) |
 | Literature review | Focused review, critique, gap identification, throughline to proposal | [Completed artefacts → Literature Review]({{ "/work/rmpp/completed/#2-literature-review" | relative_url }}) |
 | Research proposal | Slides (+ transcript): RQs, data/analysis plan, validity/limitations, ethics, plan | [Completed artefacts → Research Proposal]({{ "/work/rmpp/completed/#3-research-proposal--slides--transcript" | relative_url }}) |
 | Quant skills | Summary measures, uncertainty, inference logic, decision-ready chart | Summarised across the three submissions |
@@ -83,8 +83,6 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **Match visual to question** (comparison, distribution, relationship, part-to-whole); avoid chartjunk.  
 - **Show spread/uncertainty** (e.g., P50/P90 or intervals) alongside point estimates.  
 - **Caption with intent:** state the mapping (axes/encodings), scope/population, and the single decision-relevant takeaway.  
-- **Avoid pseudo-precision:** round sensibly; state assumptions.  
-- **Ethical display:** no misleading axes/colours; justify any truncated scales.
 
 ## 7) Ethics & data protection
 
@@ -98,7 +96,5 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - Cite ideas even when paraphrased; use quotation marks only for short, significant phrases.  
 - Reference list matches in-text citations (no orphans).  
 - Consistent voice and tense; define acronyms on first use; avoid filler.  
-- Figures/tables titled, captioned, and sourced if adapted.  
-- Proofing pass + reference manager check before exporting to PDF.
 
 </div>

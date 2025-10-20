@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "RM&PP — Completed Artefacts"
+title: "Research Methods & Professional Practice — Completed Artefacts"
 permalink: /work/rmpp/completed/
 categories: eportfolio rmpp
 tags: [research-methods, reflection, literature-review, research-proposal]
 ---
 
 Below are the works I completed and submitted for *Research Methods & Professional Practice*.  
-Each item includes a short note on what it demonstrates for assessors.
+Each item includes a short note on what it demonstrates.
 
 ---
 
-## 1) Reflective Essay 
+## 1) Reflective Piece 
 
-**Title:** Reflective Essay
+**Title:** Reflective Piece
 **Format:** PDF  
-**Download:** [Reflective Essay PDF]({{ "/assets/docs/research-methods-reflection.pdf" | relative_url }})
+**Download:** [Reflective Piece PDF]({{ "/assets/docs/Tyrone Lim - Research Methods And Professional Practice July 2025 - Reflective Piece.pdf" | relative_url }})
 
 **What this demonstrates:**
 - A structured reflective narrative using the 3 W’s (**What? So what? Now what?**).
@@ -28,7 +28,7 @@ Each item includes a short note on what it demonstrates for assessors.
 
 **Title:** Literature Review — Final Submission  
 **Format:** PDF  
-**Download:** [Literature Review PDF]({{ "/assets/docs/literature-review.pdf" | relative_url }})
+**Download:** [Literature Review PDF]({{ "/assets/docs/Tyrone Lim - Lit Review - Cloud Security Risks in the Shipping Sector.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Search & screening strategy:** databases/keywords, inclusion/exclusion criteria, and a transparent selection narrative.
@@ -39,10 +39,10 @@ Each item includes a short note on what it demonstrates for assessors.
 
 ## 3) Research Proposal — Slides
 
-**Title:** Research Proposal — Presentation Deck (with optional transcript)  
-**Format:** PDF (Slides) + PDF (Transcript, if applicable)  
-**Download (Slides):** [Proposal Slides PDF]({{ "/assets/docs/research-proposal-slides.pdf" | relative_url }})
-**Download (Transcript):** [Proposal Transcript PDF]({{ "/assets/docs/research-proposal-transcript.pdf" | relative_url }})
+**Title:** Research Proposal — Presentation Deck 
+**Format:** PDF (Slides) + PDF 
+**Download (Slides):** [Proposal Slides PDF]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Research Proposal Presentation.pdf" | relative_url }})
+**Download (Transcript):** [Proposal Transcript PDF]({{ "/assets/docs/Tyrone Lim - Research Methods and Professional Practice July 2025 - Audio Transcript.pdf" | relative_url }})
 
 **What this demonstrates:**
 - **Problem framing & RQs:** precise research questions grounded in the literature review.
@@ -57,7 +57,6 @@ Each item includes a short note on what it demonstrates for assessors.
 
 - All artefacts above are **final submissions** for the Research Methods & Professional Practice module.  
 - Files are stored in-repo under `/assets/docs/` for transparent version control.  
-- If I revise any post-submission errata, I will append a short changelog below without replacing the original content.
 
 ---
 
