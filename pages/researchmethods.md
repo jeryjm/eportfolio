@@ -57,14 +57,14 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 
 ## 4) Assessment mapping → direct links
 
-<div class="table-wrapper">
+<div class="table-wrapper" markdown="1">
 
 | Requirement | How I provide it | Where to look |
 |---|---|---|
 | Reflective writing | Narrative of change + actionable “Now what” habits | [Completed artefacts → Reflective Essay]({{ "/work/rmpp/completed/#1-reflective-essay" | relative_url }}) |
 | Literature review | Focused review, critique, gap identification, throughline to proposal | [Completed artefacts → Literature Review]({{ "/work/rmpp/completed/#2-literature-review" | relative_url }}) |
 | Research proposal | Slides (+ transcript): RQs, data/analysis plan, validity/limitations, ethics, plan | [Completed artefacts → Research Proposal]({{ "/work/rmpp/completed/#3-research-proposal--slides--transcript" | relative_url }}) |
-| Quant skills | Summary measures, uncertainty, inference logic, decision-ready chart | Evidence summarised across the three submissions |
+| Quant skills | Summary measures, uncertainty, inference logic, decision-ready chart | Summarised across the three submissions |
 | Ethics & governance | Checklist + embedded reasoning in reflection/proposal | Reflected in the Reflection & Proposal sections |
 | Process evidence | Meeting notes/feedback and the changes made | Notes within each artefact and commit history |
 
