@@ -13,10 +13,7 @@ order: 1
 
 This subject page explains **what this module is about**, **what is required in the e-portfolio**, **how my evidence maps to the criteria**, and **how I ensure academic integrity and professional ethics**.  
 
-
-**[View my completed Research Methods & Professional Practice artefacts](/work/rmpp/completed/)**
-**[View my completed RM&PP artefacts]({{ "/work/rmpp/completed/" | relative_url }})**
-
+**[View my completed Research Methods & Professional Practice artefacts]({{ "/work/rmpp/completed/" | relative_url }})**
 
 ---
 
