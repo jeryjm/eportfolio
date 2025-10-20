@@ -3,7 +3,6 @@ layout: page
 title: Security and Risk Management
 subtitle: Insights and Reflections
 permalink: /security-and-risk-management/
-# image: /assets/images/security_risk_management.jpg
 # image: assets/images/pic01.jpg
 description: Detailed analysis and insights from the Security and Risk Management module.
 nav-menu: true

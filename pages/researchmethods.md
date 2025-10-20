@@ -2,8 +2,8 @@
 layout: page
 title: "Research Methods & Professional Practice July 2025 B"
 permalink: /research-methods/
-image: assets/images/rm-tile.jpg
-description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my RM&PP e-portfolio."
+# image: assets/images/rm-tile.jpg
+description: "Module overview, requirements, assessment mapping, integrity, and evidence guide for my Research Methods & Professional Practice e-portfolio."
 nav-menu: true
 show_tile: true
 order: 1
