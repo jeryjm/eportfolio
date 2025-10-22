@@ -31,7 +31,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
   <li><a class="button primary" href="{{ "/work/rmpp/completed/" | relative_url }}">View my completed Research Methods & Professional Practice artefacts</a></li>
 </ul>
 
-## 1) What this module covers
+## What this module covers
 
 - **Research mindset** for computing/IT projects: framing clear research questions (RQs), choosing appropriate methods, and justifying decisions.
 - **Literature skills:** systematic search, screening, synthesis, critical appraisal, and identifying gaps.
@@ -39,7 +39,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **Ethics, governance, and professionalism:** Belmont/Menlo principles, data protection (e.g., JDPA/GDPR alignment), consent, risk & harm mitigation, reproducibility, and transparency.
 - **Communication:** structured academic writing, APA referencing, and persuasive presentations for technical/non-technical stakeholders.
 
-## 2) Learning outcomes
+## Learning outcomes
 
 1. **Design before methods:** state the problem/RQ, assumptions, data needed, and analysis logic before selecting tools or tests.  
 2. **Use evidence responsibly:** summarise data with both central tendency and spread; show uncertainty to avoid overconfidence.  
@@ -47,7 +47,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 4. **Act ethically:** anticipate risks to people/data; document mitigations; follow consent and governance requirements.  
 5. **Communicate for decisions:** every figure or section ends with a practical takeaway for an informed decision maker.
 
-## 3) E-portfolio expectations
+## E-portfolio expectations
 
 - **Artefacts:** authentic outputs (reflection, literature work, proposal material, quant practice, ethics artefacts).  
 - **Feedback trail:** record what peers/tutors said and *how I changed the work* as a result.  
@@ -55,7 +55,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **Meeting notes:** agreements, decisions, and action items from tutorials or group sessions.  
 - **Professional presentation:** clean structure, correct APA citations, accessible docs, consistent filenames.
 
-## 4) Assessment mapping → direct links
+## Assessment mapping → direct links
 
 <div class="table-wrapper" markdown="1">
 
@@ -70,7 +70,7 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 
 </div>
 
-## 5) Academic integrity & authenticity
+## Academic integrity & authenticity
 
 - **My own work:** I author all text, figures, and analysis decisions; collaboration/feedback is acknowledged.  
 - **Citations:** APA throughout; quotes minimal; paraphrases retain original meaning with citations.  
@@ -78,20 +78,20 @@ This subject page explains **what the module covers**, **what the e-portfolio ex
 - **Reproducibility:** figures and numbers in PDFs come from saved working files; filenames encode version/date.  
 - **Change log:** commit messages and “assessor notes” in the post identify what changed and why.
 
-## 6) Visualisation & analysis standards
+## Visualisation & analysis standards
 
 - **Match visual to question** (comparison, distribution, relationship, part-to-whole); avoid chartjunk.  
 - **Show spread/uncertainty** (e.g., P50/P90 or intervals) alongside point estimates.  
 - **Caption with intent:** state the mapping (axes/encodings), scope/population, and the single decision-relevant takeaway.  
 
-## 7) Ethics & data protection
+## Ethics & data protection
 
 - **Belmont** (Respect, Beneficence, Justice) → consent, minimise harm, equitable treatment.  
 - **Menlo** (ICT-specific) → stakeholder risks, data flows, dual-use impacts.  
 - **JDPA alignment:** lawfulness, fairness, transparency, purpose limitation, minimisation, accuracy, storage limitation, integrity/confidentiality, accountability.  
 - **Before data collection:** *purpose → lawful basis/consent → minimisation → storage/retention → risk/mitigation → DSAR/complaints channels.*
 
-## 8) Writing & referencing
+## Writing & referencing
 
 - Cite ideas even when paraphrased; use quotation marks only for short, significant phrases.  
 - Reference list matches in-text citations (no orphans).  
